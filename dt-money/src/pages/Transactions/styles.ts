@@ -25,10 +25,15 @@ border-spacing: 0 0.5rem;
         border-bottom-right-radius: 6px ;
     }
  }
+ td:nth-child(2) {
+    width: 200px;
+
+ }
 `
 interface PriceHighlightProps {
     variant: 'income' | 'outome';
 } 
 export const PriceHighlight = styled.span<PriceHighlightProps>`
 color: ${props => props.variant === "income" ? props.theme["green-300"] : props.theme["red-300"]};
+
 `

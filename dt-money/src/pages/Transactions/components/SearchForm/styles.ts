@@ -21,6 +21,7 @@ button {
     display: flex;
     border: 0;
     align-items: center;
+    cursor: pointer;
     gap: 0.75rem;
     padding: 0 0.75rem;
     background: transparent;

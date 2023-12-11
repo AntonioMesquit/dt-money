@@ -74,7 +74,7 @@ gap: 1rem;
 margin-top: 0.5rem;
 `
 interface TransactionTypeButtonProps {
-    variant?: 'income' | 'outome'
+    variant: 'income' | 'outome'
 }
 export const TransactionTypeButton = styled(RadioGroup.Item)<TransactionTypeButtonProps>`
 background-color: ${({theme}) => theme["gray-700"]};
