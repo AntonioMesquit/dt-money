@@ -17,36 +17,20 @@
       "createdAt": "2023-12-06T21:05:28.437Z"
     },
     {
-      "description": "Vagabunda",
-      "category": "Prostituta",
+      "description": "Teste",
+      "category": "Teste",
       "price": 1000,
       "type": "outome",
-      "createdAt": "2023-12-12T23:59:45.242Z",
+      "createdAt": "2023-12-15T16:18:25.217Z",
       "id": 3
     },
     {
-      "description": "teste",
-      "category": "teste",
-      "price": 1,
-      "type": "outome",
-      "createdAt": "2023-12-13T00:00:45.129Z",
-      "id": 4
-    },
-    {
-      "description": "Karla",
+      "description": "Vagabunda",
       "category": "Prostituta",
-      "price": 5000,
+      "price": 100000,
       "type": "outome",
-      "createdAt": "2023-12-13T01:41:58.475Z",
-      "id": 5
-    },
-    {
-      "description": "Teste1",
-      "category": "Teste",
-      "price": 2999,
-      "type": "income",
-      "createdAt": "2023-12-13T01:43:28.458Z",
-      "id": 6
+      "createdAt": "2023-12-17T14:11:13.219Z",
+      "id": 4
     }
   ]
 }
